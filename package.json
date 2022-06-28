@@ -1,6 +1,8 @@
 {
   "dependencies": {
     "binance-api-node": "^0.8.10",
-    "technicalindicators": "^2.0.5"
+    "dotenv": "^16.0.1",
+    "find-config": "^1.0.0",
+    "technicalindicators": "^2.0.9"
   }
 }
